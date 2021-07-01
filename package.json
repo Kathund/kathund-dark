@@ -1,0 +1,21 @@
+{
+    "name": "kathund-dark",
+    "displayName": "Kathund's crack",
+    "description": "kathund made a theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.57.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Kathund",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Kathund-color-theme.json"
+            }
+        ]
+    }
+}
